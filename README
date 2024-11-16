@@ -1,0 +1,9 @@
+# AI Error Handler
+
+A Node.js package for handling and suggesting fixes for errors with AI.
+
+## Installation
+
+```bash
+npm install ai-error-handler
+```
